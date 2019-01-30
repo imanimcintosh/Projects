@@ -1,0 +1,38 @@
+img {position: absolute;
+    left: 300px;
+    top:40px;
+    transform: rotate(90deg); 
+   
+}
+
+.text{font-family: minion;
+font-size: 100px;
+position: relative;
+left:50px;
+margin:1px;
+top:30px;
+z-index:1;
+}
+
+ .blockone{width: 400px;
+font-family:helvetica;
+position: relative;
+left: 600px;
+top:60px;
+float: left;
+}   
+
+.blocktwo{width: 400px;
+    font-family:helvetica;
+    left: 1040px;
+    position: absolute;
+    top:295px;
+    } 
+
+    .blockthree{width: 400px;
+        font-family:helvetica;
+        left: 1490px;
+        position: absolute;
+        top:295px;
+        padding-right: 50px;
+        } 
