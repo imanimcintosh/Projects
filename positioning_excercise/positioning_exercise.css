@@ -1,0 +1,245 @@
+#one{background-color: greenyellow;
+    position: relative;
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 40px;}
+    
+    #one_inside{background-color:red;
+        margin-left:50%;
+    height:50%;
+    width:50%;}
+
+ #two{background-color: blue;
+    position: relative;
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+    margin-bottom: 40px;}
+    
+    #two_inside{  background-color:pink;
+        margin-left:50%;
+        height:25%;
+        width:50%;}
+
+    #two_inside_two{background-color:pink;
+        margin-top:100px;
+    height:50%;
+    width:50%;}
+
+    #three{background-color: red;
+        position: relative;
+        width: 400px;
+        height: 400px;
+        margin: 10px;
+        margin-bottom: 40px;}
+
+        #three_inside{
+            width: 50%;
+			height: 50%;
+            background-color:plum;
+            display: inline-block;
+            margin: 25%;
+        }
+        
+    #four{background-color: black;
+        position: relative;
+        width: 400px;
+        height: 400px;
+        margin: 10px;
+        margin-bottom: 40px;}
+
+        #four_inside{background-color:cyan;
+        height:50%;
+        width:50%;}
+
+        #four_inside_two{background-color:magenta;
+        float: left;
+        height:50%;
+        width:50%;}
+
+        #four_inside_three{background-color:yellow;
+            display: inline-block;
+        height:50%;
+        width:50%;}
+
+        #five{background-color: rgb(161, 228, 250);
+            position: relative;
+            width: 400px;
+            height: 400px;
+            margin: 10px;
+            margin-bottom: 40px;}
+
+            #five_inside{  background-color:pink;
+                height:25%;
+                width:50%;
+            float: left;}
+            
+            #five_inside_two{  background-color:lightgreen;
+                margin-left:50%;
+                height:25%;
+                width:50%;}
+        
+            #five_inside_three{background-color:lightgreen;
+                margin-top:100px;
+                margin-left: 25%;
+            height:25%;
+            width:50%;}
+
+    #six{
+                    position: relative;
+                    width: 400px;
+                    height: 400px;
+                    margin: 10px;
+                    margin-bottom: 40px;
+                    background-color:rgb(248, 200, 112);
+                }
+        
+    #six_inside, #six_inside_two{
+                    display: inline-block;
+                    vertical-align: bottom;
+                }
+        
+     #six_inside{
+                    width: 25%;
+                    height: 25%;
+                    margin-top: 50%;
+                    background-color: #c5ffff;
+                }
+        
+    #six_inside_two{
+                    width: 50%;
+                    height: 50%;
+                    background-color: #68b9fc;
+                }
+
+    #seven{background-color: rgb(161, 228, 250);
+                    position: relative;
+                    width: 400px;
+                    height: 400px;
+                    margin: 10px;
+                    margin-bottom: 40px;}
+        
+    #seven_inside{  background-color:pink;
+        height:200px;
+        width:200px;}
+                    
+    #seven_inside_two{  background-color:lightgreen;
+        height:300px;
+        width:300px;}
+    
+    #seven_inside_three{background-color:rgb(209, 170, 241);
+    height:200px;
+    width:200px;
+    margin-left: 66.6%;}
+
+
+
+
+
+
+    #eight{background-color: rgb(255, 255, 70);
+                    position: relative;
+                    width: 400px;
+                    height: 400px;
+                    margin: 10px;
+                    margin-bottom: 40px;}
+        
+                    #eight_inside{  background-color:pink;
+                        height:100%;
+                        width:25%;
+                    margin-left: 25%;
+                    float: left;
+                        }
+
+                    #eight_inside_two{  background-color:plum;
+                        margin-left:50%;
+                        height:50%;
+                        width:50%;}
+
+                        #outer_element{position: absolute;
+                            width: 200px;
+                            height: 200px;
+                            background-color: rgb(186, 205, 233);
+                            overflow-y: hidden;
+                            border-radius: 50%; 
+                            right:100px;
+                            top: 100px;
+                        }
+                        #inner_element{
+                            width: 100px;
+                            height: 100px;
+                            background-color: rgb(255, 202, 103);
+                            margin-top: 50%;
+                            margin-left: 50%;
+                        }
+
+    #nine{background-color: black;
+                            position: relative;
+                            width: 400px;
+                            height: 400px;
+                            margin: 10px;
+                            margin-bottom: 40px;}
+
+                            #nine_inside_one{background-color:rgb(224, 189, 189);
+                                position: relative;
+                                margin-left:50%;
+                            height:100%;
+                            width:50%;}
+
+ #nine_small_one{width: 100px;
+    height: 100px;
+background-color: palevioletred;}
+
+#nine_small_two{width: 100px;
+    height: 100px;
+    margin-top: 50%;
+background-color: palevioletred;}
+
+#nine_inside_two{background-color: palegreen;
+    height:100%;
+    width:50%;
+float: left;}
+
+#nine_small_three{width: 100px;
+    background-color:rgb(116, 158, 107);
+    height: 100px;
+    margin-top:50%;
+    margin-left:50%;
+}
+
+#nine_small_four{width: 100px;
+    background-color:rgb(116, 158, 107);
+    height: 100px;
+    margin-top:50%;
+    margin-left:50%;
+}
+
+#ten{background-color: rgb(207, 132, 236);
+    position: relative;
+	width: 400px;
+	height: 400px;
+	margin: 10px;
+	margin-bottom: 40px;}
+
+#ten_inside{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 202, 103);
+    border-radius: 50%; }
+
+
+#ten_inside_square{background-color: rgb(207, 132, 236);
+    position: relative;
+	width: 300px;
+    height: 300px;
+    top: 12.5%;
+    left: 12.5%;
+    }
+    
+    #ten_inside_circle{
+        width: 300px;
+        height: 300px;
+        background-color: rgb(255, 202, 103);
+        border-radius: 50%; }
+    
