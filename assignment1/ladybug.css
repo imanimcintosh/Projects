@@ -1,7 +1,9 @@
 img {position: absolute;
-    left: 23%;
-    top:7%;
-    transform: rotate(90deg); 
+    left: 19%;
+    top:18%;
+    transform: rotate(90deg);
+    width:25vw; 
+    height:auto;
    
 }
 
