@@ -1,38 +1,41 @@
 img {position: absolute;
     left: 300px;
-    top:40px;
+    top:7%;
     transform: rotate(90deg); 
    
 }
 
 .text{font-family: minion;
-font-size: 100px;
-position: relative;
-left:50px;
+font-size: 7vw;
+position: absolute;
+left:6%;
 margin:1px;
-top:30px;
+top:8%;
 z-index:1;
 }
 
- .blockone{width: 400px;
+ .blockone{width:30vw;
+    font-size: 1.3vw;
 font-family:helvetica;
-position: relative;
-left: 600px;
-top:60px;
+position: absolute;
+left: 47%;
+top:47%;
 float: left;
 }   
 
-.blocktwo{width: 400px;
+.blocktwo{width: 30vw;
+    font-size: 1.3vw;
     font-family:helvetica;
-    left: 1040px;
+    left: 82%;
     position: absolute;
-    top:295px;
+    top:47%;
     } 
 
-    .blockthree{width: 400px;
+    .blockthree{width: 30vw;
+        font-size: 1.3vw;
         font-family:helvetica;
-        left: 1490px;
+        left: 118%;
         position: absolute;
-        top:295px;
+        top:47%;
         padding-right: 50px;
         } 
